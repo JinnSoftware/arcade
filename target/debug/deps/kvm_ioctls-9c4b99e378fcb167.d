@@ -1,0 +1,12 @@
+/home/ziyad/arcade/target/debug/deps/kvm_ioctls-9c4b99e378fcb167.rmeta: /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/lib.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/kvm_ioctls.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/cap.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/mod.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/device.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/system.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/vcpu.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/vm.rs
+
+/home/ziyad/arcade/target/debug/deps/kvm_ioctls-9c4b99e378fcb167.d: /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/lib.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/kvm_ioctls.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/cap.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/mod.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/device.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/system.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/vcpu.rs /home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/vm.rs
+
+/home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/lib.rs:
+/home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/kvm_ioctls.rs:
+/home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/cap.rs:
+/home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/mod.rs:
+/home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/device.rs:
+/home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/system.rs:
+/home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/vcpu.rs:
+/home/ziyad/.cargo/registry/src/github.com-1ecc6299db9ec823/kvm-ioctls-0.11.0/src/ioctls/vm.rs:
